@@ -1,0 +1,68 @@
+          /*
+--=.._/(        Site Structure      )\_..=--
+    	  */
+
+#wrapper {
+	background: #fff url(/ce/github/get/roleplayzilla-official/master/bg_wrapper.gif) 0 0 repeat-y;
+	margin: auto;
+	position: relative;
+    width: 946px;
+	padding: 0 25px;
+	}
+#footer{
+	background-color: #fff;
+    clear: both;
+    padding-top:20px;
+	/*overflow: auto;*/
+	}
+#header{
+    height: 11em;
+	margin-bottom: 62px; /* make room for absolutley position nav originally was: 4em */
+	position: relative;
+	}
+
+#content{float: left; border:none; z-index: 1;}
+
+
+#primary {
+	background-color: #fff;
+	float: left;
+	margin: 0 10px 0 0; /* changed for IE6 PC from 14 */
+    width: 628px;
+
+}
+#secondary {
+	background-color: #fff;
+	float: left;
+	margin-left: 0px;
+	width: 302px;
+
+}
+
+
+/* slightly different for theme creator.  a little more room for sidebar form. */
+
+body.createtheme #primary	{
+	width: 568px;
+	}
+body.createtheme #secondary {
+	border-left: 1px solid #ccc;
+	padding-left: 20px;
+	width: 340px;
+	}
+
+
+/* three col, secondary on left, terciary on right
+
+
+.interior #primary {
+    width: 400px;
+}
+.interior #secondary {
+	margin-left: -620px;
+}
+  */
+
+	#siteutilities {
+		overflow:hidden;
+	}
