@@ -10,7 +10,7 @@ input, textarea {border: 1px solid #242323;!important}
 --=.._/(        Type, Links and Lists      )\_..=--
     	  */
 body {
-	background: #8F2A24 url(/web/20100105001526im_/http://quizilla.teennick.com/templates/QZ2/images/dev/page_bg.gif)!important;
+	background: #8F2A24 url(https://raw.githubusercontent.com/Quiziller/quizilla/master/page_bg.gif)!important;
 	font: 78%/120% "Trebuchet MS", Trebuchet, Tahoma, Arial, sans-serif;
 	margin-bottom: 14px!important;
 	}
@@ -32,7 +32,7 @@ a:hover { color: #990000}
 
 /* stretchable arrow button  */
 .continue span, .morebutton span {
-	background:transparent url(/web/20100105001526im_/http://quizilla.teennick.com/templates/QZ2/images/dev/bg_continue_main.gif) 0 0 no-repeat;
+	background:transparent url(https://raw.githubusercontent.com/Quiziller/quizilla/master/bg_continue_main.gif) 0 0 no-repeat;
 	color: #007681;
 	cursor:pointer;
 	display:block;
@@ -43,7 +43,7 @@ a:hover { color: #990000}
 	padding:0 0 0 22px;
 	}
 a.continue, a.morebutton {
-	background: url(/web/20100105001526im_/http://quizilla.teennick.com/templates/QZ2/images/dev/bg_continue_right.gif) 100% 0 no-repeat;
+	background: url(https://raw.githubusercontent.com/Quiziller/quizilla/master/bg_continue_right.gif) 100% 0 no-repeat;
 	border: none;
   	float:left;
 	font-size: 1.1em;
@@ -54,7 +54,7 @@ a.continue, a.morebutton {
 	text-transform: uppercase;
 	}
 span.morebutton {
-	background:transparent url(/web/20100105001526im_/http://quizilla.teennick.com/templates/QZ2/images/dev/bg_continue_right.gif) 100% 0 no-repeat;
+	background:transparent url(https://raw.githubusercontent.com/Quiziller/quizilla/master/bg_continue_right.gif) 100% 0 no-repeat;
 	display:block;
 	float:left;
 	margin: .5em 0;
@@ -62,7 +62,7 @@ span.morebutton {
 	padding:0 24px 0 0;
 	}
 button.continue, button.morebutton {
-	background: url(/web/20100105001526im_/http://quizilla.teennick.com/templates/QZ2/images/dev/bg_continue_main.gif) 0 0 no-repeat;
+	background: url(https://raw.githubusercontent.com/Quiziller/quizilla/master/bg_continue_main.gif) 0 0 no-repeat;
 	border: none;
 	color: #007681;
  	float:left;
